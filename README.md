@@ -20,7 +20,7 @@ firebase login
 ```
 
 ## Scarica il progetto
-Puoi clonare il progetto con ```git clone git@github.com:gdgbari/2017_codelab_actions_on_google.git``` o scaricare lo [.zip da qui](https://github.com/gdgbari/2017_codelab_actions_on_google/archive/master.zip).
+Puoi clonare il progetto con ```git clone https://github.com/gdgbari/2017_codelab_actions_on_google``` o scaricare lo [.zip da qui](https://github.com/gdgbari/2017_codelab_actions_on_google/archive/master.zip).
 
 ## Importa il progetto su Dialogflow
  * Apri la [Console Action on Google](https://console.actions.google.com/) e aggiungi un nuovo progetto con il nome che vuoi.
