@@ -33,7 +33,7 @@ Puoi clonare il progetto con ```git clone git@github.com:gdgbari/2017_codelab_ac
 ```
 firebase init functions
 ```
-Alla richiesta *File functions/package.json already exists. Overwrite?*, rispondi **N.**
+Alle richieste *File functions/package.json already exists. Overwrite?* e *File functions/index.js already exists. Overwrite?*, rispondi **N.**
 
 * Effettua il Deploy su Firebase:
 ``` firebase deploy --only functions ```￼
