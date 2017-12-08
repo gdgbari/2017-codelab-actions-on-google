@@ -42,7 +42,7 @@ Riceverai come risposta l'endpoint del webhook appositamente configurato su Fire
 * Riapri il progetto su Dialogflow e nella scheda *Fulfillment* sulla sinistra attiva il *Webhook*, inserendo l'url ottenuto prima.
 
 * Seleziona *Integrations* dal menu laterale e apri le Impostazioni per *Actions on Google*.
-* Aggiungi i seguenti Intent:
+* Aggiungi i seguenti Intent nella sezione *Additional triggering intents*:
 ```chose_fact```
 ```chose_cats```
 
